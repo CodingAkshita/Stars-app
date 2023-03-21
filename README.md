@@ -1,1 +1,2 @@
-# Stars-app
+# star-api
+Star Api 
